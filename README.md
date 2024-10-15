@@ -20,4 +20,6 @@ I’m always up for chatting with like-minded folks. You can reach me here:
 - 📧 Email: sam@simplecoders.com
 - 🎮 Discord: ident
 
-⚠️ **Disclaimer:** You'll notice that all my repositories have both a `main` and `master` branch. The `master` branch is the stable version, while the `main` branch will always have the latest updates, though they might still be a bit rough around the edges. If you're looking for the most polished version, stick with `master`; if you want the newest features, `main` is where you'll find them!
+⚠️ Disclaimer: You'll notice that all my repositories have both a main and master branch. The master branch is the stable version, while the main branch will always have the latest updates, though they might still be a bit rough around the edges. If you're looking for the most polished version, stick with master; if you want the newest features, main is where you'll find them!
+
+Also, just a heads-up: I sometimes run into issues with GPG signing, so there may be quirks related to that.
